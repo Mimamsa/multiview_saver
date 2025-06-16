@@ -9,7 +9,7 @@ The node subscribes messages the following topics:
 4. "/joint_states" (sensor_msgs/msg/JointState)
 
 
-## Dependency
+## Dependencies
 
 This ROS2 node cooperates with the following tools:
 1. [Universal Robots ROS2 Driver (humble branch) - github.com](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver/tree/humble)
@@ -74,7 +74,7 @@ ros2 service call /multiview_saver/restart_count std_srvs/srv/Trigger {}
 ```
 
 
-## Inforation
+## Information
 
 - Author: Yu-Hsien Chen (mike_chen@wistron.com)
 - Latest update: 2025/6/11
