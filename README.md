@@ -76,6 +76,6 @@ ros2 service call /multiview_saver/restart_count std_srvs/srv/Trigger {}
 
 ## Information
 
-- Author: Yu-Hsien Chen (mike_chen@wistron.com)
+- Author: Yu-Hsien Mike Chen
 - Latest update: 2025/6/11
 
